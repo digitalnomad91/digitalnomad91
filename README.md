@@ -6,7 +6,6 @@
 
 
 - 📫 How to reach me: **andrew@codebuilder.us**
-
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
@@ -39,8 +38,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 
 </p>
-
-<h3>Where to find me:</h3>
+<h2>Where&nbsp;to&nbsp;find&nbsp;me:</h2>
+<p>Social</p>
 <p><a href="https://github.com/digitalnomad91" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/digitalnomad91" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/digitalnomad91" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.reddit.com/u/fullstackdev91" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
  <a href="https://matrix.to/#/!YxVMEyWBEGKnhnuQxA:subtlefu.ge?via=subtlefu.ge&via=matrix.org" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/root:subtlefu.ge?label=Matrix&logo=matrix&style=for-the-badge" /></a>
  
