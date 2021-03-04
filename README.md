@@ -6,6 +6,12 @@
 
 - 📫 How to reach me: **andrew@codebuilder.us**
 
+- 🌱 I’m currently learning Vue.js.
+
+- 🌊 Things on my plate for later - Django, Flask.
+
+- 💬 Ask me about React, Node.js & in general, about JavaScript ecosystem.
+
 <h2>Language & Tools</h2>
 
 <p align="left">
@@ -51,7 +57,8 @@
  <a href="https://matrix.to/#/!YxVMEyWBEGKnhnuQxA:subtlefu.ge?via=subtlefu.ge&via=matrix.org" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/root:subtlefu.ge?label=Matrix&logo=matrix&style=for-the-badge" /></a>
  
 <h2>Useful Links</h2>
-- 📫 How to reach me: **andrew@codebuilder.us**
-- 
-- 📫 How to reach me: **andrew@codebuilder.us**
+- 🌱 CodeBuilder.us - Software Engineering Solutions.
 
+- 🌊 Corbin.world - Personal Website
+
+- 💬 Resume - 
