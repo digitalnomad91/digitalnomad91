@@ -3,14 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
-
 - 📫 How to reach me: **andrew@codebuilder.us**
-
-- 🌱 I’m currently learning Vue.js.
-
-- 🌊 Things on my plate for later - Django, Flask.
-
-- 💬 Ask me about React, Node.js & in general, about JavaScript ecosystem.
 
 <h2>Language & Tools</h2>
 
@@ -52,9 +45,6 @@
 </p>
 
 
-<h3>Social Profiles:</h3>
-<p><a href="https://github.com/digitalnomad91" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/digitalnomad91" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/digitalnomad91" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.reddit.com/u/fullstackdev91" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
- <a href="https://matrix.to/#/!YxVMEyWBEGKnhnuQxA:subtlefu.ge?via=subtlefu.ge&via=matrix.org" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/root:subtlefu.ge?label=Matrix&logo=matrix&style=for-the-badge" /></a>
  
 <h2>Useful Links</h2>
 - 🌱 CodeBuilder.us - Software Engineering Solutions.
