@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
-- 📫 How to reach me: **andrew@codebuilder.us**
-
 <h2>Language & Tools</h2>
 <p align="left">
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
@@ -39,13 +37,13 @@
 </p>
 
 <h2>Where to find me</h2>
+- 📫 Send me an email: **andrew@codebuilder.us**
 
 <p><a href="https://github.com/digitalnomad91" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-161b22.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/digitalnomad91" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/digitalnomad91" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.reddit.com/u/fullstackdev91" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
  <a href="https://matrix.to/#/#root:subtlefu.ge" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/root:subtlefu.ge?label=Matrix&logo=matrix&style=for-the-badge" /></a>
  <a href="https://join.skype.com/invite/jgfzj3ov5i5U" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-00aff0.svg?&style=for-the-badge&logo=Skype&logoColor=white" /></a>	
  <a href="discord:dfoolz#3044" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-5560e9?style=for-the-badge&logo=Discord&logoColor=white" /></a>	
 	
-
 </p>
 
 
