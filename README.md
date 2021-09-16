@@ -29,7 +29,6 @@
 	<a href="https://www.apollographql.com" target="_blank"> <img src="https://img.shields.io/badge/apollo-162A45?style=for-the-badge&logo=apollo%20graphql&logoColor=white" alt="apollo" /> </a>
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 	<a href="https://www.cypress.io" target="_blank"> <img src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /> </a>
-	<a href="https://jestjs.io" target="_blank"> <img src="https://img.shields.io/badge/jest-92414E?style=for-the-badge&logo=jest&logoColor=white" alt="jest" /> </a>
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 	<a href="https://npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
 	<a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
