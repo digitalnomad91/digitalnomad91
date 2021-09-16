@@ -36,7 +36,7 @@
 	<a href="https://www.debian.org/" target="_blank"> <img src="https://img.shields.io/badge/Debian-a80030?style=for-the-badge&logo=Debian&logoColor=white" alt="Debian" /> </a>
 </p>
 
-<h2>Where to find me</h2>
+<h2>Get in Touch</h2>
 
 - 📫 Send me an email: **andrew@codebuilder.us**
 
