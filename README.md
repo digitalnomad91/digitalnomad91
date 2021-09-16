@@ -41,7 +41,7 @@
 
 <h3>Chat with me:</h3>
 <p><a href="https://github.com/digitalnomad91" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/digitalnomad91" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/digitalnomad91" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.reddit.com/u/fullstackdev91" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
- <a href="https://matrix.to/#/!YxVMEyWBEGKnhnuQxA:subtlefu.ge?via=subtlefu.ge&via=matrix.org" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/root:subtlefu.ge?label=Matrix&logo=matrix&style=for-the-badge" /></a>
+ <a href="https://matrix.to/#/#root:subtlefu.ge" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/root:subtlefu.ge?label=Matrix&logo=matrix&style=for-the-badge" /></a>
 </p>
 
 
