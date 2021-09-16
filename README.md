@@ -49,6 +49,6 @@
 <h2>Useful Links</h2>
 - 🌱 CodeBuilder.us - Software Engineering Solutions.
 
-- 🌊 Corbin.world - Personal Website
+- 🌊 Corbin.world - Personal Website.
 
-- 💬 Resume - 
+- 💬 Resume/CV - corbin.world/resume
