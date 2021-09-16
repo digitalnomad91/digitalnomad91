@@ -1,5 +1,5 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Andrew Corbin</h2>
-<h3>I'm software developer from The United States with over 15 years of full stack web development experience.</h3>
+<h3>I'm software developer from The United States with over 15 years of full stack web development experience. I have worked with clients such as the Department of Defense, Centers for Disease Control, United Nations, along with a myriad of other clients throughout the years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
