@@ -1,5 +1,5 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Andrew Corbin</h2>
-<h3>I'm software developer from the United States with over 15 years of full stack web development experience. I have worked with clients such as the Department of Defense, Centers for Disease Control, United Nations, along with a myriad of other clients throughout the years.</h3>
+<h3>I'm software developer from the United States (I am fluent in English 🇺🇸 & Spanish 🇨🇴) with over 15 years of full stack web development experience. I have worked with clients such as the Department of Defense, Centers for Disease Control, United Nations, along with a myriad of other clients throughout the years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
@@ -48,8 +48,9 @@
 
  
 <h2>Useful Links</h2>
-- 🌱 CodeBuilder.us - Software Engineering Solutions.
 
-- 🌊 Corbin.world - Personal Website.
+- 🌍 <a href="https://codebuilder.us" target="_blank">CodeBuilder.us</a> - Software Engineering Solutions.
 
-- 💬 Resume/CV - corbin.world/resume
+- <img src="data:image/png;base64,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"> <a href="https://corbin.world" target="_blank">Corbin.world</a> - Personal Website.
+
+- 💼 Resume/CV - corbin.world/resume
