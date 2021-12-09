@@ -46,7 +46,7 @@
 <a href="https://www.reddit.com/u/taofullstack" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
  <a href="https://matrix.to/#/#root:subtlefu.ge" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/subtlefuge:subtlefu.ge?label=Matrix&logo=matrix&style=for-the-badge" /></a>
  <a href="https://join.skype.com/invite/jgfzj3ov5i5U" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-00aff0.svg?&style=for-the-badge&logo=Skype&logoColor=white" /></a>	
- <a href="discord:digitalnomad91#3044" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-5560e9?style=for-the-badge&logo=Discord&logoColor=white" /></a>	
+ <a href="https://discordapp.com/users/542088220117303316/" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-5560e9?style=for-the-badge&logo=Discord&logoColor=white" /></a>	
 	
 </p>
 
