@@ -6,11 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
 
+
 <h2>Portfolio</h2>
 <table border="0">
 <tr>
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGM5bIjXVlVLw/company-logo_100_100/0/1644380874975?e=1653523200&amp;v=beta&amp;t=qMRI93y8yMsvXKV0i6GOTNqeFceeNky6tai3RrZ23YU" alt="Byt, Inc logo" width="48" height="48">
+<a href="https://byt.io"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGM5bIjXVlVLw/company-logo_100_100/0/1644380874975?e=1653523200&amp;v=beta&amp;t=qMRI93y8yMsvXKV0i6GOTNqeFceeNky6tai3RrZ23YU" alt="Byt, Inc logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -19,7 +20,7 @@
 </td>
 
 <td> 
-<img src="https://codebuilder.us/images/mandala4_75.png" alt="CodeBuilder, Inc. logo" width="48" height="48">
+<a href="https://codebuilder.us"><img src="https://codebuilder.us/images/mandala4_75.png" alt="CodeBuilder, Inc. logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -30,7 +31,7 @@
 
 <tr>
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQEAiPKseWKZyg/company-logo_100_100/0/1572359567454?e=1653523200&amp;v=beta&amp;t=dJbPPSBbR-A6xTZl-lnGds1BAlSq9Edi1kFRrc-6dj0" alt="Peridot logo" width="48" height="48">
+<a href="https://onperidot.com"><img src="https://media-exp1.licdn.com/dms/image/C560BAQEAiPKseWKZyg/company-logo_100_100/0/1572359567454?e=1653523200&amp;v=beta&amp;t=dJbPPSBbR-A6xTZl-lnGds1BAlSq9Edi1kFRrc-6dj0" alt="Peridot logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -39,7 +40,7 @@
 </td>
 
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0_Fzyy7ap_A/company-logo_100_100/0/1628565359603?e=1653523200&amp;v=beta&amp;t=Qv43OmUF51wBOF1T7_tCBLpZR_OUMMkzbu9RTPl7vy8" alt="United Nations ESCAP logo" width="48" height="48">
+<a href="https://www.unescap.org/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0_Fzyy7ap_A/company-logo_100_100/0/1628565359603?e=1653523200&amp;v=beta&amp;t=Qv43OmUF51wBOF1T7_tCBLpZR_OUMMkzbu9RTPl7vy8" alt="United Nations ESCAP logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -50,7 +51,7 @@
 
 <tr>
 <td> 
-<img src="https://mumu-global.fp.ps.easebar.com/file/6178a10c1b7412587a0337e0TS2aJwdw02" alt="123Movies.fun" width="48" height="48">
+<a href="https://123movies.fun"><img src="https://mumu-global.fp.ps.easebar.com/file/6178a10c1b7412587a0337e0TS2aJwdw02" alt="123Movies.fun" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -59,7 +60,7 @@
 </td>
 
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQHzFb2vhFa3vA/company-logo_100_100/0/1536410697603?e=1653523200&amp;v=beta&amp;t=PR4Zt4UnLHzeDbRIipncpfkq6uB1HguethwhKgHc90s" alt="Tax Course Central logo" width="48" height="48">
+<a href="https://taxcoursecentral.com"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHzFb2vhFa3vA/company-logo_100_100/0/1536410697603?e=1653523200&amp;v=beta&amp;t=PR4Zt4UnLHzeDbRIipncpfkq6uB1HguethwhKgHc90s" alt="Tax Course Central logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -79,7 +80,7 @@
 </td>
 
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEIIG--j6vhSA/company-logo_100_100/0/1519881169413?e=1653523200&amp;v=beta&amp;t=825YJb-720BWgkCsBwqPqXszT8RoMur5OoYW1NdbrXU" alt="Orange County Bar Association logo" width="48" height="48">
+<a href="https://orangecountybar.org"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEIIG--j6vhSA/company-logo_100_100/0/1519881169413?e=1653523200&amp;v=beta&amp;t=825YJb-720BWgkCsBwqPqXszT8RoMur5OoYW1NdbrXU" alt="Orange County Bar Association logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -90,7 +91,7 @@
 
 <tr>
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFonzUqFZad2A/company-logo_100_100/0/1547132200786?e=1653523200&v=beta&t=oyWpxKJuL4Aupp5qVHdjip458vGy5WQF-lBzmjVh21A" alt="Centers for Disease Control" width="48" height="48">
+<a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFonzUqFZad2A/company-logo_100_100/0/1547132200786?e=1653523200&v=beta&t=oyWpxKJuL4Aupp5qVHdjip458vGy5WQF-lBzmjVh21A" alt="Centers for Disease Control" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -99,7 +100,7 @@
 </td>
 
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4xab46KlLMA/company-logo_100_100/0/1643657220769?e=1653523200&amp;v=beta&amp;t=L9qrju0GM1gGSCzRl1nGrA5WbvjIbliecUk_vXovqFo" alt="United States Department of Defense logo" width="48" height="48">
+<a href="https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4xab46KlLMA/company-logo_100_100/0/1643657220769?e=1653523200&amp;v=beta&amp;t=L9qrju0GM1gGSCzRl1nGrA5WbvjIbliecUk_vXovqFo" alt="United States Department of Defense logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -110,7 +111,7 @@
 
 <tr>
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHFd-TOSD0TkA/company-logo_100_100/0/1642183054486?e=1653523200&amp;v=beta&amp;t=QpFY7aO2F0xLwS0VRTbQmcZSUB8o4Ofh_fXj0ITtEnc" alt="American College of Surgeons logo" width="48" height="48">
+<a href="https://www.facs.org/quality-programs/acs-nsqip"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHFd-TOSD0TkA/company-logo_100_100/0/1642183054486?e=1653523200&amp;v=beta&amp;t=QpFY7aO2F0xLwS0VRTbQmcZSUB8o4Ofh_fXj0ITtEnc" alt="American College of Surgeons logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -119,7 +120,7 @@
 </td>
 
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFeQ8TyVEfV_Q/company-logo_100_100/0/1519865598499?e=1653523200&v=beta&t=1sslUS509L9Tc9iyYX8pxkvCPRy_Ej5_UtQ-6wc4mVk" alt="GreatLyfe, Inc." width="48" height="48">
+<a href="https://web.archive.org/web/20160320070403/http://www.greatlyfe.com/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFeQ8TyVEfV_Q/company-logo_100_100/0/1519865598499?e=1653523200&v=beta&t=1sslUS509L9Tc9iyYX8pxkvCPRy_Ej5_UtQ-6wc4mVk" alt="GreatLyfe, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -130,7 +131,7 @@
 
 <tr>
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQFlqmH8VX5Z_w/company-logo_100_100/0/1519895499560?e=1653523200&v=beta&t=xqNhZBrONydA9U03lH5WOUtF48Y9Xj_oEFL5x3okoKs" alt="Healthsoft, Inc." width="48" height="48">
+<a href="https://web.archive.org/web/20100820185447/http://healthsoftonline.com/hsi/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQFlqmH8VX5Z_w/company-logo_100_100/0/1519895499560?e=1653523200&v=beta&t=xqNhZBrONydA9U03lH5WOUtF48Y9Xj_oEFL5x3okoKs" alt="Healthsoft, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -139,7 +140,7 @@
 </td>
 
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEW9SrO9TUH9w/company-logo_100_100/0/1597342187979?e=1653523200&amp;v=beta&amp;t=VdHRg7xzKFvAIWFLDZcYiNs7xHW9KazzhdnZaU4ozRw" alt="Developmental Disabilities Nurses Association logo" width="48" height="48">
+<a href="https://ddna.org/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEW9SrO9TUH9w/company-logo_100_100/0/1597342187979?e=1653523200&amp;v=beta&amp;t=VdHRg7xzKFvAIWFLDZcYiNs7xHW9KazzhdnZaU4ozRw" alt="Developmental Disabilities Nurses Association logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -151,7 +152,7 @@
 
 <tr>
 <td> 
-<img src="https://kyba.codebuilder.us/images/logo.png" alt="Keep Your Boat Afloat" width="48" height="48">
+<a href="https://kybaproject.com"><img src="https://kyba.codebuilder.us/images/logo.png" alt="Keep Your Boat Afloat" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -160,7 +161,7 @@
 </td>
 
 <td> 
-<img src="https://www.nutflix.com/favicon.png" alt="NutFlix" width="48" height="48">
+<a href="https://nutflix.com"><img src="https://www.nutflix.com/favicon.png" alt="NutFlix" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -172,7 +173,7 @@
 
 <tr>
 <td> 
-<img src="https://subtlefu.ge/bitnation.ico" alt="BitNation.com" width="48" height="48">
+<a href="http://web.archive.org/web/20080720182021/http://www.bitnation.com/"><img src="https://subtlefu.ge/bitnation.ico" alt="BitNation.com" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -180,7 +181,7 @@
 <sub><sup>January 2005 - September 2008</sup></sub>
 </td>
 <td> 
-<img src="https://subtlefu.ge/transparent.png" alt="Subtlefuge" width="48" height="48">
+<a href="https://subtlefu.ge"><img src="https://subtlefu.ge/transparent.png" alt="Subtlefuge" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -190,6 +191,7 @@
 
 </tr>
 </table>
+
 
 
 
