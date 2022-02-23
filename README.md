@@ -18,7 +18,6 @@
 <sub><sup>Feb 2022 - Present</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://codebuilder.us/images/mandala4_75.png" alt="CodeBuilder, Inc. logo" width="48" height="48">
 </td>
@@ -39,7 +38,6 @@
 <sub><sup>Dec 2019 - Jul 2020</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0_Fzyy7ap_A/company-logo_100_100/0/1628565359603?e=1653523200&amp;v=beta&amp;t=Qv43OmUF51wBOF1T7_tCBLpZR_OUMMkzbu9RTPl7vy8" alt="United Nations ESCAP logo" width="48" height="48">
 </td>
@@ -60,7 +58,6 @@
 <sub><sup>Jan 2017 - Sep 2017</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://media-exp1.licdn.com/dms/image/C560BAQHzFb2vhFa3vA/company-logo_100_100/0/1536410697603?e=1653523200&amp;v=beta&amp;t=PR4Zt4UnLHzeDbRIipncpfkq6uB1HguethwhKgHc90s" alt="Tax Course Central logo" width="48" height="48">
 </td>
@@ -81,7 +78,6 @@
 <sub><sup>Jul 2016 - Nov 2016</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEIIG--j6vhSA/company-logo_100_100/0/1519881169413?e=1653523200&amp;v=beta&amp;t=825YJb-720BWgkCsBwqPqXszT8RoMur5OoYW1NdbrXU" alt="Orange County Bar Association logo" width="48" height="48">
 </td>
@@ -102,7 +98,6 @@
 <sub><sup>Aug 2010 - Sep 2015</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4xab46KlLMA/company-logo_100_100/0/1643657220769?e=1653523200&amp;v=beta&amp;t=L9qrju0GM1gGSCzRl1nGrA5WbvjIbliecUk_vXovqFo" alt="United States Department of Defense logo" width="48" height="48">
 </td>
@@ -123,7 +118,6 @@
 <sub><sup>Aug 2010 - Aug 2015</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFeQ8TyVEfV_Q/company-logo_100_100/0/1519865598499?e=1653523200&v=beta&t=1sslUS509L9Tc9iyYX8pxkvCPRy_Ej5_UtQ-6wc4mVk" alt="GreatLyfe, Inc." width="48" height="48">
 </td>
@@ -144,7 +138,6 @@
 <sub><sup>Aug 2010 - May 2015</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEW9SrO9TUH9w/company-logo_100_100/0/1597342187979?e=1653523200&amp;v=beta&amp;t=VdHRg7xzKFvAIWFLDZcYiNs7xHW9KazzhdnZaU4ozRw" alt="Developmental Disabilities Nurses Association logo" width="48" height="48">
 </td>
@@ -166,7 +159,6 @@
 <sub><sup>September 2021 - Present</sup></sub>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://www.nutflix.com/favicon.png" alt="NutFlix" width="48" height="48">
 </td>
@@ -187,7 +179,6 @@
 <span>BitNation.com · Founder</span><br>
 <sub><sup>January 2005 - September 2008</sup></sub>
 </td>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 <img src="https://subtlefu.ge/transparent.png" alt="Subtlefuge" width="48" height="48">
 </td>
@@ -198,14 +189,7 @@
 </td>
 
 </tr>
-
-
 </table>
-
-
-
-
-
 
 
 
