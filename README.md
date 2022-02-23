@@ -5,6 +5,210 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
+
+<h2>Portfolio</h2>
+<table border="0">
+<tr>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGM5bIjXVlVLw/company-logo_100_100/0/1644380874975?e=1653523200&amp;v=beta&amp;t=qMRI93y8yMsvXKV0i6GOTNqeFceeNky6tai3RrZ23YU" alt="Byt, Inc logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Byt, Inc · Full-time</span><br>
+<sub><sup>Feb 2022 - Present</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://codebuilder.us/images/mandala4_75.png" alt="CodeBuilder, Inc. logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>CodeBuilder, Inc. · Founder</span><br>
+<sub><sup>Jan 2017 - Present</sup></sub>
+</td>
+</tr>
+
+<tr>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQEAiPKseWKZyg/company-logo_100_100/0/1572359567454?e=1653523200&amp;v=beta&amp;t=dJbPPSBbR-A6xTZl-lnGds1BAlSq9Edi1kFRrc-6dj0" alt="Peridot logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Peridot · Contract</span><br>
+<sub><sup>Dec 2019 - Jul 2020</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0_Fzyy7ap_A/company-logo_100_100/0/1628565359603?e=1653523200&amp;v=beta&amp;t=Qv43OmUF51wBOF1T7_tCBLpZR_OUMMkzbu9RTPl7vy8" alt="United Nations ESCAP logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>United Nations ESCAP · Contract</span><br>
+<sub><sup>Sep 2017 - Dec 2017</sup></sub>
+</td>
+</tr>
+
+<tr>
+<td> 
+<img src="https://mumu-global.fp.ps.easebar.com/file/6178a10c1b7412587a0337e0TS2aJwdw02" alt="123Movies.fun" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>123Movies</span><br>
+<sub><sup>Jan 2017 - Sep 2017</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQHzFb2vhFa3vA/company-logo_100_100/0/1536410697603?e=1653523200&amp;v=beta&amp;t=PR4Zt4UnLHzeDbRIipncpfkq6uB1HguethwhKgHc90s" alt="Tax Course Central logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Tax Course CentralTax Course Central · Contract</span><br>
+<sub><sup>Apr 2017 - Jun 2017</sup></sub>
+</td>
+</tr>
+
+<tr>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFfLCoiATDh0g/company-logo_100_100/0/1585168564923?e=1653523200&amp;v=beta&amp;t=YskA62bZuPAceBhVPtg98B8vlVqJluYXb1qx_rv58Ro" alt="Link Solutions, Inc. logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Link Solutions, Inc. · Full-Time</span><br>
+<sub><sup>Jul 2016 - Nov 2016</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEIIG--j6vhSA/company-logo_100_100/0/1519881169413?e=1653523200&amp;v=beta&amp;t=825YJb-720BWgkCsBwqPqXszT8RoMur5OoYW1NdbrXU" alt="Orange County Bar Association logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Orange County Bar Association · Contract</span><br>
+<sub><sup>Aug 2010 - Jan 2017</sup></sub>
+</td>
+</tr>
+
+<tr>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFonzUqFZad2A/company-logo_100_100/0/1547132200786?e=1653523200&v=beta&t=oyWpxKJuL4Aupp5qVHdjip458vGy5WQF-lBzmjVh21A" alt="Centers for Disease Control" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Centers for Disease Control · Contract</span><br>
+<sub><sup>Aug 2010 - Sep 2015</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4xab46KlLMA/company-logo_100_100/0/1643657220769?e=1653523200&amp;v=beta&amp;t=L9qrju0GM1gGSCzRl1nGrA5WbvjIbliecUk_vXovqFo" alt="United States Department of Defense logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>United States Department of Defense · Contract</span><br>
+<sub><sup>Aug 2010 - Sep 2016</sup></sub>
+</td>
+</tr>
+
+<tr>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHFd-TOSD0TkA/company-logo_100_100/0/1642183054486?e=1653523200&amp;v=beta&amp;t=QpFY7aO2F0xLwS0VRTbQmcZSUB8o4Ofh_fXj0ITtEnc" alt="American College of Surgeons logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>American College of Surgeons · Contract</span><br>
+<sub><sup>Aug 2010 - Aug 2015</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFeQ8TyVEfV_Q/company-logo_100_100/0/1519865598499?e=1653523200&v=beta&t=1sslUS509L9Tc9iyYX8pxkvCPRy_Ej5_UtQ-6wc4mVk" alt="GreatLyfe, Inc." width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>GreatLyfe, Inc. · Full-Time</span><br>
+<sub><sup>Feb 2015 - Jul 2015</sup></sub>
+</td>
+</tr>
+
+<tr>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQFlqmH8VX5Z_w/company-logo_100_100/0/1519895499560?e=1653523200&v=beta&t=xqNhZBrONydA9U03lH5WOUtF48Y9Xj_oEFL5x3okoKs" alt="Healthsoft, Inc." width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Healthsoft, Inc. · Full-Time</span><br>
+<sub><sup>Aug 2010 - May 2015</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEW9SrO9TUH9w/company-logo_100_100/0/1597342187979?e=1653523200&amp;v=beta&amp;t=VdHRg7xzKFvAIWFLDZcYiNs7xHW9KazzhdnZaU4ozRw" alt="Developmental Disabilities Nurses Association logo" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Developmental Disabilities Nurses Association · Full-Time</span><br>
+<sub><sup>Aug 2010 - Apr 2015</sup></sub>
+</td>
+</tr>
+
+
+<tr>
+<td> 
+<img src="https://kyba.codebuilder.us/images/logo.png" alt="Keep Your Boat Afloat" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Keep Your Boat Afloat · Contract</span><br>
+<sub><sup>September 2021 - Present</sup></sub>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://www.nutflix.com/favicon.png" alt="NutFlix" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>NutFlix · Contractor</span><br>
+<sub><sup>May 2018 - August 2018</sup></sub>
+</td>
+</tr>
+
+
+<tr>
+<td> 
+<img src="https://subtlefu.ge/bitnation.ico" alt="BitNation.com" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>BitNation.com · Founder</span><br>
+<sub><sup>January 2005 - September 2008</sup></sub>
+</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td> 
+<img src="https://subtlefu.ge/transparent.png" alt="Subtlefuge" width="48" height="48">
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Subtlefuge · Founder</span><br>
+<sub><sup>January 2020 - Present</sup></sub>
+</td>
+
+</tr>
+
+
+</table>
+
+
+
+
+
+
+
+
 <h2>Language & Tools</h2>
 <p align="left">
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
