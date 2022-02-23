@@ -1,5 +1,5 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Andrew Corbin</h2>
-<h3>I'm software developer from the 🇺🇸 United States with over 15 years of full stack web development experience. I am fluent in English and 🇨🇴 Spanish. I have worked with clients such as the Department of Defense, Centers for Disease Control, United Nations, American College of Surgeons, along with a myriad of other small projects & clients throughout the years.</h3>
+<h3>I'm software developer from the 🇺🇸 United States with over 15 years of full stack web development experience. I am fluent in English and 🇨🇴 Spanish. I have experience working for the Department of Defense, Centers for Disease Control, United Nations, American College of Surgeons, and many more clients/projects throughout the years.</h3>
 
 <p>I'm currently working full-time building cryptocurrency/NFT software for Byt, Inc.</p>
 
