@@ -10,7 +10,7 @@
 <table border="0">
 <tr>
 <td> 
-<a href="https://byt.io"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGM5bIjXVlVLw/company-logo_100_100/0/1644380874975?e=1653523200&amp;v=beta&amp;t=qMRI93y8yMsvXKV0i6GOTNqeFceeNky6tai3RrZ23YU" alt="Byt, Inc logo" width="48" height="48"></a>
+<a href="https://byt.io"><img src="[https://media-exp1.licdn.com/dms/image/C4E0BAQGM5bIjXVlVLw/company-logo_100_100/0/1644380874975?e=1653523200&amp;v=beta&amp;t=qMRI93y8yMsvXKV0i6GOTNqeFceeNky6tai3RrZ23YU](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oky8fu5kz0vhln0e9crv)" alt="Byt, Inc logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
