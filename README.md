@@ -10,7 +10,7 @@
 <table border="0">
 <tr>
 <td> 
-<a href="https://byt.io"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oky8fu5kz0vhln0e9crv" alt="Byt, Inc logo" width="48" height="48"></a>
+<a href="https://byt.io"><img src="https://codebuilder.us/images/byt-logo.webp" alt="Byt, Inc logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -30,7 +30,7 @@
 
 <tr>
 <td> 
-<a href="https://onperidot.com"><img src="https://media-exp1.licdn.com/dms/image/C560BAQEAiPKseWKZyg/company-logo_100_100/0/1572359567454?e=1653523200&amp;v=beta&amp;t=dJbPPSBbR-A6xTZl-lnGds1BAlSq9Edi1kFRrc-6dj0" alt="Peridot logo" width="48" height="48"></a>
+<a href="https://onperidot.com"><img src="https://codebuilder.us/images/peridot-logo.png" alt="Peridot logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -39,7 +39,7 @@
 </td>
 
 <td> 
-<a href="https://www.unescap.org/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0_Fzyy7ap_A/company-logo_100_100/0/1628565359603?e=1653523200&amp;v=beta&amp;t=Qv43OmUF51wBOF1T7_tCBLpZR_OUMMkzbu9RTPl7vy8" alt="United Nations ESCAP logo" width="48" height="48"></a>
+<a href="https://www.unescap.org/"><img src="https://codebuilder.us/images/unescap-logo.jpg" alt="United Nations ESCAP logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -50,7 +50,7 @@
 
 <tr>
 <td> 
-<a href="https://123movies.fun"><img src="https://mumu-global.fp.ps.easebar.com/file/6178a10c1b7412587a0337e0TS2aJwdw02" alt="123Movies.fun" width="48" height="48"></a>
+<a href="https://123movies.fun"><img src="https://codebuilder.us/images/123movies.webp" alt="123Movies.fun" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -59,7 +59,7 @@
 </td>
 
 <td> 
-<a href="https://taxcoursecentral.com"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHzFb2vhFa3vA/company-logo_100_100/0/1536410697603?e=1653523200&amp;v=beta&amp;t=PR4Zt4UnLHzeDbRIipncpfkq6uB1HguethwhKgHc90s" alt="Tax Course Central logo" width="48" height="48"></a>
+<a href="https://taxcoursecentral.com"><img src="https://codebuilder.us/images/taxcoursecentral-logo.jpg" alt="Tax Course Central logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -70,7 +70,7 @@
 
 <tr>
 <td> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFfLCoiATDh0g/company-logo_100_100/0/1585168564923?e=1653523200&amp;v=beta&amp;t=YskA62bZuPAceBhVPtg98B8vlVqJluYXb1qx_rv58Ro" alt="Link Solutions, Inc. logo" width="48" height="48">
+<img src="https://codebuilder.us/images/link-sol.jpg" alt="Link Solutions, Inc. logo" width="48" height="48">
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -79,7 +79,7 @@
 </td>
 
 <td> 
-<a href="https://orangecountybar.org"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEIIG--j6vhSA/company-logo_100_100/0/1519881169413?e=1653523200&amp;v=beta&amp;t=825YJb-720BWgkCsBwqPqXszT8RoMur5OoYW1NdbrXU" alt="Orange County Bar Association logo" width="48" height="48"></a>
+<a href="https://orangecountybar.org"><img src="https://codebuilder.us/images/ocba-logo.png" alt="Orange County Bar Association logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -90,7 +90,7 @@
 
 <tr>
 <td> 
-<a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFonzUqFZad2A/company-logo_100_100/0/1547132200786?e=1653523200&v=beta&t=oyWpxKJuL4Aupp5qVHdjip458vGy5WQF-lBzmjVh21A" alt="Centers for Disease Control" width="48" height="48"></a>
+<a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html"><img src="https://codebuilder.us/images/cdc-logo.png" alt="Centers for Disease Control" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -99,7 +99,7 @@
 </td>
 
 <td> 
-<a href="https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4xab46KlLMA/company-logo_100_100/0/1643657220769?e=1653523200&amp;v=beta&amp;t=L9qrju0GM1gGSCzRl1nGrA5WbvjIbliecUk_vXovqFo" alt="United States Department of Defense logo" width="48" height="48"></a>
+<a href="https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency"><img src="https://codebuilder.us/images/dod-logo.png" alt="United States Department of Defense logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -110,7 +110,7 @@
 
 <tr>
 <td> 
-<a href="https://www.facs.org/quality-programs/acs-nsqip"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHFd-TOSD0TkA/company-logo_100_100/0/1642183054486?e=1653523200&amp;v=beta&amp;t=QpFY7aO2F0xLwS0VRTbQmcZSUB8o4Ofh_fXj0ITtEnc" alt="American College of Surgeons logo" width="48" height="48"></a>
+<a href="https://www.facs.org/quality-programs/acs-nsqip"><img src="https://codebuilder.us/images/acs-logo.jpeg" alt="American College of Surgeons logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -119,7 +119,7 @@
 </td>
 
 <td> 
-<a href="https://web.archive.org/web/20160320070403/http://www.greatlyfe.com/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFeQ8TyVEfV_Q/company-logo_100_100/0/1519865598499?e=1653523200&v=beta&t=1sslUS509L9Tc9iyYX8pxkvCPRy_Ej5_UtQ-6wc4mVk" alt="GreatLyfe, Inc." width="48" height="48"></a>
+<a href="https://codebuilder.us/images/greatlyfe-logo.png" alt="GreatLyfe, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -130,7 +130,7 @@
 
 <tr>
 <td> 
-<a href="https://web.archive.org/web/20100820185447/http://healthsoftonline.com/hsi/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQFlqmH8VX5Z_w/company-logo_100_100/0/1519895499560?e=1653523200&v=beta&t=xqNhZBrONydA9U03lH5WOUtF48Y9Xj_oEFL5x3okoKs" alt="Healthsoft, Inc." width="48" height="48"></a>
+<a href="https://codebuilder.us/images/healthsoft-loog.png" alt="Healthsoft, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -139,7 +139,7 @@
 </td>
 
 <td> 
-<a href="https://ddna.org/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEW9SrO9TUH9w/company-logo_100_100/0/1597342187979?e=1653523200&amp;v=beta&amp;t=VdHRg7xzKFvAIWFLDZcYiNs7xHW9KazzhdnZaU4ozRw" alt="Developmental Disabilities Nurses Association logo" width="48" height="48"></a>
+<a href="https://ddna.org/"><img src="https://codebuilder.us/images/ddna-logo.jpg" alt="Developmental Disabilities Nurses Association logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -151,7 +151,7 @@
 
 <tr>
 <td> 
-<a href="https://kybaproject.com"><img src="https://kyba.codebuilder.us/images/logo.png" alt="Keep Your Boat Afloat" width="48" height="48"></a>
+<a href="https://kybaproject.com"><img src="https://codebuilder.us/images/kyba_logo.png" alt="Keep Your Boat Afloat" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -160,7 +160,7 @@
 </td>
 
 <td> 
-<a href="https://nutflix.com"><img src="https://www.nutflix.com/favicon.png" alt="NutFlix" width="48" height="48"></a>
+<a href="https://nutflix.com"><img src="https://codebuilder.us/images/nutflix-logo.png" alt="NutFlix" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -172,7 +172,7 @@
 
 <tr>
 <td> 
-<a href="http://web.archive.org/web/20080720182021/http://www.bitnation.com/"><img src="https://subtlefu.ge/bitnation.ico" alt="BitNation.com" width="48" height="48"></a>
+<a href="https://codebuilder.us/images/bitnation-logo.png"><img src="https://subtlefu.ge/bitnation.ico" alt="BitNation.com" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -180,7 +180,7 @@
 <sub><sup>January 2005 - September 2008</sup></sub>
 </td>
 <td> 
-<a href="https://subtlefu.ge"><img src="https://subtlefu.ge/transparent.png" alt="Subtlefuge" width="48" height="48"></a>
+<a href="https://subtlefu.ge"><img src="https://subtlefuge.com/transparent.png" alt="Subtlefuge" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
