@@ -119,7 +119,7 @@
 </td>
 
 <td> 
-<a href="https://codebuilder.us/images/greatlyfe-logo.png" alt="GreatLyfe, Inc." width="48" height="48"></a>
+<a href="[https://codebuilder.us/images/greatlyfe-logo.png](https://web.archive.org/web/20160122145927/https://greatlyfe.com/)"><img src="https://codebuilder.us/images/greatlyfe-logo.png" alt="GreatLyfe, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -130,7 +130,7 @@
 
 <tr>
 <td> 
-<a href="https://codebuilder.us/images/healthsoft-loog.png" alt="Healthsoft, Inc." width="48" height="48"></a>
+<a href="https://web.archive.org/web/20100820185447/http://healthsoftonline.com/hsi/"><img src="https://codebuilder.us/images/healthsoft-logo.png" alt="Healthsoft, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -172,7 +172,7 @@
 
 <tr>
 <td> 
-<a href="https://codebuilder.us/images/bitnation-logo.png"><img src="https://subtlefu.ge/bitnation.ico" alt="BitNation.com" width="48" height="48"></a>
+<a href="https://web.archive.org/web/20080204160940/http://bitnation.com:80/"><img src="https://codebuilder.us/images/bitnation-favicon-1.png" alt="BitNation.com" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -247,6 +247,6 @@
 
 - <img src="https://codebuilder.us/images/mandala4_75.png" height="12" width="12"> <a href="https://codebuilder.us" target="_blank">CodeBuilder.us</a> - Software Engineering Solutions.
 
-- <img src="https://subtlefu.ge/transparent.png" height="12" width="12"> <a href="https://corbin.world" target="_blank">Corbin.world</a> - Personal Website.
+- <img src="https://subtlefuge.com/transparent.png" height="12" width="12"> <a href="https://corbin.world" target="_blank">Corbin.world</a> - Personal Website.
 
 - 💼 <a href="https://corbin.world/resume" target="_blank">Resume/CV</a> - Curriculum vitae.
