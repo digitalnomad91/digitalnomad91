@@ -235,7 +235,7 @@
 <a href="https://twitter.com/digitalnomad91" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/digitalnomad91" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.reddit.com/u/taofullstack" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
- <a href="https://matrix.subtlefu.ge/#/#root:subtlefu.ge" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/subtlespace:subtlefuge.com?label=Matrix&logo=matrix&style=for-the-badge" /></a>
+ <a href="https://matrix.subtlefu.ge/#/#root:subtlefu.ge" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/video:subtlefuge.com?label=Matrix&logo=matrix&style=for-the-badge" /></a>
  <a href="https://join.skype.com/invite/jgfzj3ov5i5U" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-00aff0.svg?&style=for-the-badge&logo=Skype&logoColor=white" /></a>	
  <a href="https://discordapp.com/users/542088220117303316/" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-5560e9?style=for-the-badge&logo=Discord&logoColor=white" /></a>	
 	
