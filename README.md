@@ -78,7 +78,7 @@
 <sub><sup>Jul 2016 - Nov 2016</sup></sub>
 </td>
 
-<td> https://subtlefuge.com/transparent.png
+<td> 
 <a href="https://orangecountybar.org"><img src="https://codebuilder.us/images/ocba-logo.png" alt="Orange County Bar Association logo" width="48" height="48"></a>
 </td>
 <td>
