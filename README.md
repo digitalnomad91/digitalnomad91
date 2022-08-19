@@ -172,7 +172,7 @@
 
 <tr>
 <td> 
-<a href="https://web.archive.org/web/20080204160940/http://bitnation.com:80/"><img src="https://codebuilder.us/images/bitnation-favicon-1.png" alt="BitNation.com" width="48" height="48"></a>
+<a href="https://web.archive.org/web/20070516020951/http://bitnation.com/"><img src="https://codebuilder.us/images/bitnation-favicon-1.png" alt="BitNation.com" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
