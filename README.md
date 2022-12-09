@@ -1,8 +1,6 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Andrew Corbin</h2>
 <h3>I'm software engineer from the 🇺🇸 United States with over 15 years of full stack web development experience. I am fluent in English and 🇨🇴 Spanish. I am primarily a full-stack developer, with a heavy focus on building hybrid mobile & desktop web applications. I am proficient in DevOps, OpSec, Database Engineering, Back-end Coding, Front-end UX coding, and to a lesser extent some lower level languages such as Bash, Perl, C, C++, Java, etc...</h3>
 
-<p>I'm currently working full-time building cryptocurrency/NFT software for Byt, Inc.</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
 
