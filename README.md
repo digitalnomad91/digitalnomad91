@@ -247,4 +247,4 @@
 
 - <img src="https://subtlefuge.com/transparent.png" height="12" width="12"> <a href="https://corbin.world" target="_blank">Corbin.world</a> - Personal Website.
 
-- 💼 <a href="https://corbin.world/resume" target="_blank">Resume/CV</a> - Curriculum vitae.
+- 💼 <a href="https://corbin.sh/resume" target="_blank">Resume/CV</a> - Curriculum vitae.
