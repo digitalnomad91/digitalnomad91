@@ -13,7 +13,7 @@
 <td>
 <b>Software Engineer</b><br>
 <span>Byt, Inc · Full-time</span><br>
-<sub><sup>Feb 2022 - Present</sup></sub>
+<sub><sup>Feb 2022 - Dec 2022</sup></sub>
 </td>
 
 <td> 
