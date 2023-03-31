@@ -6,6 +6,7 @@
 <a href="https://github.com/digitalnomad91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalnomad91&show_icons=true&count_private=true&theme=transparent" /> 
 </a>
+<br><br>
 <a href="https://github.com/digitalnomad91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=digitalnomad91&theme=transparent&layout=compact&langs_count=5&layout=compact" /> 
 </a>
