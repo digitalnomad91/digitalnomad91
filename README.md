@@ -234,6 +234,9 @@
 	<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=white" alt="linux" /> </a>
 	<a href="https://www.debian.org/" target="_blank"> <img src="https://img.shields.io/badge/Debian-a80030?style=for-the-badge&logo=Debian&logoColor=white" alt="Debian" /> </a>
+	<a href="https://prisma.io/" target="_blank"> <img src="https://img.shields.io/badge/Prisma-ffffff?style=for-the-badge&logo=Prisma&logoColor=black" alt="Prisma" /> </a>
+	<a href="https://svelte.dev/" target="_blank"> <img src="https://img.shields.io/badge/Svelte-f22f00?style=for-the-badge&logo=Svelte&logoColor=white" alt="Svelte" /> </a>
+	<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailWindCSS-38bdf8?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="TailwindCSS" /> </a>
 </p>
 
 <h2>Contact Me</h2>
