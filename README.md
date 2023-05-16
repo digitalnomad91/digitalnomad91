@@ -4,16 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
 <a href="https://github.com/digitalnomad91/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalnomad91&show_icons=true&count_private=true&theme=transparent" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalnomad91&show_icons=true&count_private=true&theme=gradient" /> 
 </a>
 <br><br>
 <a href="https://github.com/digitalnomad91/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=digitalnomad91&theme=transparent&layout=compact&langs_count=5&layout=compact" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
 </a>
-<br><br>
-<a href="https://github.com/digitalnomad91/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalnomad91&theme=transparent" />  
-</a>
+
+
 
 <h2>Portfolio</h2>
 <table border="0">
