@@ -257,6 +257,6 @@
 
 - <img src="https://codebuilder.us/images/mandala4_75.png" height="12" width="12"> <a href="https://codebuilder.us" target="_blank">CodeBuilder.us</a> - Software Engineering Solutions.
 
-- <img src="https://subtlefuge.com/transparent.png" height="12" width="12"> <a href="https://corbin.world" target="_blank">Corbin.world</a> - Personal Website.
+- <img src="https://subtlefuge.com/transparent.png" height="12" width="12"> <a href="https://corbin.sh" target="_blank">Corbin.sh</a> - Personal Website.
 
 - 💼 <a href="https://corbin.sh/resume" target="_blank">Resume/CV</a> - Curriculum vitae.
