@@ -11,6 +11,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
 </a>
 
+<a href="https://github.com/digitalnomad91/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
+</a>
 
 
 <h2>Portfolio</h2>
