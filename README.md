@@ -19,11 +19,11 @@ Whether you seek a knowledgeable companion for a chat or require a proficient Se
 <a href="https://github.com/digitalnomad91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
 </a>
-
+<!-- This is commented out.
 <a href="https://github.com/digitalnomad91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
 </a>
-
+ -->
 
 <h2>Portfolio</h2>
 <table border="0">
