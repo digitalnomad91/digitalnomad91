@@ -27,6 +27,18 @@ Whether you seek a knowledgeable companion for a chat or require a proficient Se
 
 <h2>Portfolio</h2>
 <table border="0">
+	<tr rowspan=2>
+<td> 
+<a href="https://byt.io"><img src="https://codebuilder.us/images/byt-logo.webp" alt="Byt, Inc logo" width="48" height="48"></a>
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Byt, Inc · Full-time</span><br>
+<sub><sup>Feb 2022 - Dec 2022</sup></sub>
+</td>
+</tr>
+
+
 <tr>
 <td> 
 <a href="https://byt.io"><img src="https://codebuilder.us/images/byt-logo.webp" alt="Byt, Inc logo" width="48" height="48"></a>
