@@ -260,6 +260,14 @@ Whether you seek a knowledgeable companion for a chat or require a proficient Se
 	<a href="https://prisma.io/" target="_blank"> <img src="https://img.shields.io/badge/Prisma-ffffff?style=for-the-badge&logo=Prisma&logoColor=black" alt="Prisma" /> </a>
 	<a href="https://svelte.dev/" target="_blank"> <img src="https://img.shields.io/badge/Svelte-f22f00?style=for-the-badge&logo=Svelte&logoColor=white" alt="Svelte" /> </a>
 	<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailWindCSS-38bdf8?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="TailwindCSS" /> </a>
+
+ <a href="https://ethereum.org" target="_blank"> <img src="https://img.shields.io/badge/Ethereum-6782eb?style=for-the-badge&logo=ethereum&logoColor=black" alt="Ethereum" /> </a>
+ <a href="https://bitcoin.com" target="_blank"> <img src="https://img.shields.io/badge/Bitcoin-f79621?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" /> </a>
+ <a href="https://golang.org" target="_blank"> <img src="https://img.shields.io/badge/Golang-08afd8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /> </a>
+ <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio-9459cf?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" /> </a>
+ <a href="https://soliditylang.org/" target="_blank"> <img src="https://img.shields.io/badge/Solidity-6b6b6b?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /> </a>
+
+ 
 </p>
 
 <h2>Contact Me</h2>
