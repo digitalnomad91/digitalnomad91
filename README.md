@@ -19,6 +19,9 @@ Whether you seek a knowledgeable companion for a chat or require a proficient Se
 <a href="https://github.com/digitalnomad91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
 </a>
+
+
+
 <!-- This is commented out.
 <a href="https://github.com/digitalnomad91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
@@ -290,3 +293,9 @@ Whether you seek a knowledgeable companion for a chat or require a proficient Se
 - <img src="https://subtlefuge.com/transparent.png" height="12" width="12"> <a href="https://corbin.sh" target="_blank">Corbin.sh</a> - Personal Website.
 
 - 💼 <a href="https://corbin.sh/resume" target="_blank">Resume/CV</a> - Curriculum vitae.
+
+<hr>
+<a href="github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=digitalnomad91&theme=onedark" /> 
+</a>
+
