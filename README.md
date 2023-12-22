@@ -31,7 +31,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 <a href="https://app.dexcelerate.com"><img src="https://dexcelerate.com/touch_icon.png" alt="Dexcelerate" width="48" height="48"></a>
 </td>
 <td>
-<b>Team Lead / Software Engineer</b><br>
+<b>Software Engineer (Team Lead)</b><br>
 <span>Dexcelerate · Full-time</span><br>
 <sub><sup>Mar 2023 - October 2023</sup></sub>
 </td>
@@ -268,13 +268,13 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <h2>Contact Me</h2>
 
-- 📫 Send me an email: **andrew@codebuilder.us**
+- 📫 Send me an email: **andrew@codebuilder.org**
 
 <p><a href="https://github.com/digitalnomad91" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-161b22.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/digitalnomad91" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/digitalnomad91" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.reddit.com/u/taofullstack" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
- <a href="https://matrix.subtlefu.ge/#/#main:subtlefuge.com" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/video:subtlefuge.com?label=Matrix&logo=matrix&style=for-the-badge" /></a>
+ <a href="https://matrix.subtlefuge.com/#/#main:subtlefuge.com" target="_blank"><img alt="Matrix" src="https://img.shields.io/matrix/video:subtlefuge.com?label=Matrix&logo=matrix&style=for-the-badge" /></a>
  <a href="https://join.skype.com/invite/jgfzj3ov5i5U" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-00aff0.svg?&style=for-the-badge&logo=Skype&logoColor=white" /></a>	
  <a href="https://discordapp.com/users/542088220117303316/" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-5560e9?style=for-the-badge&logo=Discord&logoColor=white" /></a>	
 	
@@ -284,11 +284,11 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
  
 <h2>Useful Links</h2>
 
-- <img src="https://codebuilder.us/images/mandala4_75.png" height="12" width="12"> <a href="https://codebuilder.us" target="_blank">CodeBuilder.us</a> - Software Engineering Solutions.
+- <img src="https://codebuilder.org/images/mandala4_75.png" height="12" width="12"> <a href="https://codebuilder.org" target="_blank">CodeBuilder.org</a> - Software Engineering Solutions.
 
 - <img src="https://subtlefuge.com/transparent.png" height="12" width="12"> <a href="https://corbin.sh" target="_blank">Corbin.sh</a> - Personal Website.
 
-- 💼 <a href="https://corbin.sh/resume" target="_blank">Resume/CV</a> - Curriculum vitae.
+- 💼 <a href="https://corbin.sh/Andrew-Corbin-Resume-2023-12-20.pdf" target="_blank">Resume/CV</a> - Curriculum vitae.
 
 <hr>
 <a href="github.com/ryo-ma/github-profile-trophy">
