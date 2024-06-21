@@ -26,22 +26,31 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <h2>Portfolio</h2>
 <table border="0">
-	<tr rowspan=2>
+	<tr>
+
 <td> 
-<a href="https://app.dexcelerate.com"><img src="https://dexcelerate.com/touch_icon.png" alt="Dexcelerate" width="48" height="48"></a>
+<a href="https://meritcircle.io"><img src="https://codebuilder.org/images/meritcircle.ico" alt="Merit Circle" width="48" height="48"></a>
+</td>
+<td>
+<b>Software Engineer</b><br>
+<span>Merit Circle. · Software Engineer</span><br>
+<sub><sup>Jan 2024 - May 2024</sup></sub>
+</td>
+
+<td> 
+<a href="https://app.dexcelerate.com"><img src="https://codebuilder.org/images/dexcelerate.svg" alt="Dexcelerate" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer (Team Lead)</b><br>
 <span>Dexcelerate · Full-time</span><br>
 <sub><sup>Mar 2023 - October 2023</sup></sub>
 </td>
-
 </tr>
 
 
 <tr>
 <td> 
-<a href="https://byt.io"><img src="https://codebuilder.us/images/byt-logo.webp" alt="Byt, Inc logo" width="48" height="48"></a>
+<a href="https://byt.io"><img src="https://codebuilder.org/images/byt-logo.webp" alt="Byt, Inc logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -50,7 +59,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="https://codebuilder.us"><img src="https://codebuilder.us/images/mandala4_75.png" alt="CodeBuilder, Inc. logo" width="48" height="48"></a>
+<a href="https://codebuilder.org"><img src="https://codebuilder.org/images/mandala4_75.png" alt="CodeBuilder, Inc. logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -61,7 +70,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<a href="https://onperidot.com"><img src="https://codebuilder.us/images/peridot-logo.png" alt="Peridot logo" width="48" height="48"></a>
+<a href="https://onperidot.com"><img src="https://codebuilder.org/images/peridot-logo.png" alt="Peridot logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -70,7 +79,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="https://www.unescap.org/"><img src="https://codebuilder.us/images/unescap-logo.jpg" alt="United Nations ESCAP logo" width="48" height="48"></a>
+<a href="https://www.unescap.org/"><img src="https://codebuilder.org/images/unescap-logo.jpg" alt="United Nations ESCAP logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -81,7 +90,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<a href="https://123movies.fun"><img src="https://codebuilder.us/images/123movies.webp" alt="123Movies.fun" width="48" height="48"></a>
+<a href="https://123movies.fun"><img src="https://codebuilder.org/images/123movies.webp" alt="123Movies.fun" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -90,7 +99,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="https://taxcoursecentral.com"><img src="https://codebuilder.us/images/taxcoursecentral-logo.jpg" alt="Tax Course Central logo" width="48" height="48"></a>
+<a href="https://taxcoursecentral.com"><img src="https://codebuilder.org/images/taxcoursecentral-logo.jpg" alt="Tax Course Central logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -101,7 +110,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<img src="https://codebuilder.us/images/link-sol.jpg" alt="Link Solutions, Inc. logo" width="48" height="48">
+<img src="https://codebuilder.org/images/link-sol.jpg" alt="Link Solutions, Inc. logo" width="48" height="48">
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -110,7 +119,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="https://orangecountybar.org"><img src="https://codebuilder.us/images/ocba-logo.png" alt="Orange County Bar Association logo" width="48" height="48"></a>
+<a href="https://orangecountybar.org"><img src="https://codebuilder.org/images/ocba-logo.png" alt="Orange County Bar Association logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -121,7 +130,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html"><img src="https://codebuilder.us/images/cdc-logo.png" alt="Centers for Disease Control" width="48" height="48"></a>
+<a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html"><img src="https://codebuilder.org/images/cdc-logo.png" alt="Centers for Disease Control" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -130,7 +139,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency"><img src="https://codebuilder.us/images/dod-logo.png" alt="United States Department of Defense logo" width="48" height="48"></a>
+<a href="https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency"><img src="https://codebuilder.org/images/dod-logo.png" alt="United States Department of Defense logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -141,7 +150,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<a href="https://www.facs.org/quality-programs/acs-nsqip"><img src="https://codebuilder.us/images/acs-logo.jpeg" alt="American College of Surgeons logo" width="48" height="48"></a>
+<a href="https://www.facs.org/quality-programs/acs-nsqip"><img src="https://codebuilder.org/images/acs-logo.jpeg" alt="American College of Surgeons logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -150,7 +159,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="[https://codebuilder.us/images/greatlyfe-logo.png](https://web.archive.org/web/20160122145927/https://greatlyfe.com/)"><img src="https://codebuilder.us/images/greatlyfe-logo.png" alt="GreatLyfe, Inc." width="48" height="48"></a>
+<a href="[https://codebuilder.org/images/greatlyfe-logo.png](https://web.archive.org/web/20160122145927/https://greatlyfe.com/)"><img src="https://codebuilder.org/images/greatlyfe-logo.png" alt="GreatLyfe, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -161,7 +170,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<a href="https://web.archive.org/web/20100820185447/http://healthsoftonline.com/hsi/"><img src="https://codebuilder.us/images/healthsoft-logo.png" alt="Healthsoft, Inc." width="48" height="48"></a>
+<a href="https://web.archive.org/web/20100820185447/http://healthsoftonline.com/hsi/"><img src="https://codebuilder.org/images/healthsoft-logo.png" alt="Healthsoft, Inc." width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -170,7 +179,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="https://ddna.org/"><img src="https://codebuilder.us/images/ddna-logo.jpg" alt="Developmental Disabilities Nurses Association logo" width="48" height="48"></a>
+<a href="https://ddna.org/"><img src="https://codebuilder.org/images/ddna-logo.jpg" alt="Developmental Disabilities Nurses Association logo" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -182,7 +191,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<a href="https://kybaproject.com"><img src="https://codebuilder.us/images/kyba_logo.png" alt="Keep Your Boat Afloat" width="48" height="48"></a>
+<a href="https://kybaproject.com"><img src="https://codebuilder.org/images/kyba_logo.png" alt="Keep Your Boat Afloat" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -191,7 +200,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 </td>
 
 <td> 
-<a href="https://nutflix.com"><img src="https://codebuilder.us/images/nutflix-logo.png" alt="NutFlix" width="48" height="48"></a>
+<a href="https://nutflix.com"><img src="https://codebuilder.org/images/nutflix-logo.png" alt="NutFlix" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -203,7 +212,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 
 <tr>
 <td> 
-<a href="https://web.archive.org/web/20070516020951/http://bitnation.com/"><img src="https://codebuilder.us/images/bitnation-favicon-1.png" alt="BitNation.com" width="48" height="48"></a>
+<a href="https://web.archive.org/web/20070516020951/http://bitnation.com/"><img src="https://codebuilder.org/images/bitnation-favicon-1.png" alt="BitNation.com" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
@@ -211,7 +220,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 <sub><sup>January 2005 - September 2008</sup></sub>
 </td>
 <td> 
-<a href="https://subtlefu.ge"><img src="https://subtlefuge.com/transparent.png" alt="Subtlefuge" width="48" height="48"></a>
+<a href="https://subtlefuge.com"><img src="https://codebuilder.org/images/transparent.png" alt="Subtlefuge" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
