@@ -29,7 +29,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 	<tr>
 
 <td> 
-<a href="https://meritcircle.io"><img src="https://codebuilder.org/images/meritcircle.webp" alt="Merit Circle" width="48" height="48"></a>
+<a href="https://meritcircle.io"><img src="https://codebuilder.org/images/meritcircle.png" alt="Merit Circle" width="48" height="48"></a>
 </td>
 <td>
 <b>Software Engineer</b><br>
