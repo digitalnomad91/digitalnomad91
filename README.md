@@ -308,7 +308,6 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 - 💼 <a href="https://corbin.sh/Andrew-Corbin-Resume-2023-12-20.pdf" target="_blank">Resume/CV</a> - Curriculum vitae.
 
 <h2>GitHub Badges</h2>
-<hr>
 <a href="github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=digitalnomad91&theme=onedark" /> 
 </a>
