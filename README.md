@@ -5,7 +5,8 @@ I am an experienced U.S.-based(🇺🇸) software engineer with 16 years of expe
 My passion lies in decentralization technology, with roots in early peer-to-peer networks. I'm currently focused on Web3 projects but am versatile in various software engineering roles. If you're looking for a seasoned professional to lead your team or need help with software projects, feel free to reach out!
 </p>	
 
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalnomad91&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
 
 <a href="https://github.com/digitalnomad91/github-readme-stats">
@@ -15,6 +16,7 @@ My passion lies in decentralization technology, with roots in early peer-to-peer
 <a href="https://github.com/digitalnomad91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalnomad91&theme=gradient&langs_count=10&layout=compact" /> 
 </a>
+</details>
 
 
 
